@@ -8,7 +8,7 @@ A modern, interactive and highly performant portfolio website built with **HTML5
 
 Application live demo link here:
 
-- Live Demo: [Insert your URL here]
+- Live Demo: https://portfolio-pascaline.netlify.app/
 
 ---
 
