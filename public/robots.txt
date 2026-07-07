@@ -1,0 +1,6 @@
+# robots.txt for Portfolio Soukou Enyonam Pascaline
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: https://soukoupascaline29.hostingersite.com/sitemap.xml
